@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/machinekit/machinetalk-protobuf.git"
   },
-  "author": "",
+  "author": "Bob van der Linden <bobvanderlinden@gmail.com>",
+  "keywords": [
+    "machinetalk",
+    "machinekit",
+    "protobuf"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/machinekit/machinetalk-protobuf/issues"
