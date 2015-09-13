@@ -1,0 +1,22 @@
+{
+  "name": "machinetalk-protobuf",
+  "version": "1.0.0",
+  "description": "Protobuf definitions to communicate with Machinetalk",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "scripts/install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machinekit/machinetalk-protobuf.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/machinekit/machinetalk-protobuf/issues"
+  },
+  "homepage": "https://github.com/machinekit/machinetalk-protobuf#readme",
+  "dependencies": {
+    "protobufjs": "^4.0.0"
+  }
+}
