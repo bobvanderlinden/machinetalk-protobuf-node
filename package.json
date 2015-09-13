@@ -1,6 +1,6 @@
 {
   "name": "machinetalk-protobuf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Protobuf definitions to communicate with Machinetalk",
   "main": "index.js",
   "scripts": {
